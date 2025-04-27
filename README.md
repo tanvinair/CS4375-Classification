@@ -1,2 +1,2 @@
 ﻿# CS4375-Proj1
-- World Alcohol Consumption Analysis
+1. World Alcohol Consumption Analysis
